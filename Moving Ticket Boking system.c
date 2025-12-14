@@ -1,3 +1,4 @@
+// This is simple program whih is written by me and also used AI at some place. so , check it this program 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -322,3 +323,4 @@ int main() {
     saveMovies(movies, count); // Save movies before exiting
     return 0;
 }
+
